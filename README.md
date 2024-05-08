@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I've contributed in [Jalopy Modding Community](https://github.com/Jalopy-Mods) and [Nordic Overlay for Place](https://github.com/MeblIkea/NordicPlace).
+### I've contributed in [Jalopy Modding Community](https://github.com/Jalopy-Mods) and [Nordic Overlay for Place](https://github.com/Meb-Do-Stuff/NordicPlace).
 
 ## Here are my languages:
 ### Naturals:
